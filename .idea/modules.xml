@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/First-Steps-in-Coding/First-Steps-in-Coding.iml" filepath="$PROJECT_DIR$/First-Steps-in-Coding/First-Steps-in-Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaGit.iml" filepath="$PROJECT_DIR$/.idea/JavaGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorsNexpressions/OperatorsNexpressions.iml" filepath="$PROJECT_DIR$/OperatorsNexpressions/OperatorsNexpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/if_if-else/if_if-else.iml" filepath="$PROJECT_DIR$/if_if-else/if_if-else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inputoutput/inputoutput.iml" filepath="$PROJECT_DIR$/inputoutput/inputoutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/loops.iml" filepath="$PROJECT_DIR$/loops/loops.iml" />
+    </modules>
+  </component>
+</project>

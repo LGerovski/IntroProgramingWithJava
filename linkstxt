@@ -1,0 +1,29 @@
+Първата от сесиите за Technical Onboarding ще е запознаване с Git, като по време на срещатата сме планирали да минем с теб следните теми, като го поствам като Agenda и референс за по-късно:
+	Basics
+	Theory
+	What is commit
+	What is branch
+	What is merge and how to merge
+	Hands-on
+	How to add/commit
+	How to pull
+	How to push
+	How to merge/resolve merge conflict
+	Repos - Internal Git Repositories
+	Pull requests - doc.
+
+Преди срещатата има и някои неща, които трябва да подготвиш 
+•	Инсталирай git на машината си
+•	Прочети като малка подготовка повече за git, като ти давам някои идеи тук:
+o	https://git-scm.com/about - official documentation
+	https://git-scm.com/book/en/v2/
+	https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control - VCS intro
+	https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F – Git intro
+o	https://guides.github.com/introduction/git-handbook/ - GitHub guide intro – намирам го за доста информативно и обяснено достъпно
+
+ 
+==========================================================================================
+
+По принцип като документация, която да се гледа за тераформ препоръчвам официалната - https://www.terraform.io/docs/configuration/index.html
+Иначе за това как тераформ се използва в екипа има wiki странички - https://wiki.bosch-si.com/display/PSYOPS/Terraform като през тях ще минем подробно на срещатата.
+.........................................................................................................................................
