@@ -79,18 +79,20 @@ public class Main {
         //}
 
         //task 5
-        System.out.println("\ntask 5\nEnter a number");
-        int i5n = input.nextInt();
-        int i5first = 0;
-        int i5sec = 1;
-        int i5rd = 1;
-        for (int i = 0; i < i5n ; i++) {
-            System.out.println(i5first);
-            i5rd = i5first + i5sec;
-            i5first = i5sec;
-            i5sec = i5rd;
-        }
+        //System.out.println("\ntask 5\nEnter a number");
+        //int i5n = input.nextInt();
+        //int i5first = 0;
+        //int i5sec = 1;
+        //int i5rd = 1;
+        //for (int i = 0; i < i5n ; i++) {
+        //    System.out.println(i5first);
+        //    i5rd = i5first + i5sec;
+        //    i5first = i5sec;
+        //    i5sec = i5rd;
+        //}
 
+        //task 6
+        System.out.println("\ntask 6\nEnter a number");
 
     }
 }
