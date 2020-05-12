@@ -92,7 +92,18 @@ public class Main {
         //}
 
         //task 6
-        System.out.println("\ntask 6\nEnter a number");
+        //System.out.print("\ntask 6\nEnter a number for \"N\" ");
+        //int i6n = input.nextInt();
+        //System.out.print("\nEnter a number for \"K\" ");
+        //int i6k = input.nextInt();
+        //int i6out = 1;
+        //for (int i = i6n; i > i6k ; i--) {
+        //    i6out *= i;
+        //}
+        //System.out.printf("\nN!/K! = %d!/%d! = %d", i6n, i6k, i6out);
+
+        //task 7
+        System.out.print("\ntask 7\nEnter a number for \"N\" the ");
 
     }
 }
